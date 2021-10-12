@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+}
+
+#user1Login , #user2Login{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    color: red;
+}
+
+#label{
+    color: #FFBC00;
+}
+
+#h3{
+    color: red;
+}
+
+#LoginButton{
+    background-color: red;
+    color: yellow;
+    border-color: red;
+}
+
+h1{
+    color: red;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid red;
+padding: 10px;
+float: none;
+text-align: left;
+}
